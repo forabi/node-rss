@@ -24,12 +24,12 @@
   },
   "dependencies": {
     "xml": "~0.0.12",
-    "mime": "~1.2.11"
+    "mime": "~4.0.1"
   },
   "devDependencies": {
     "chai": "~1.8.1",
     "mocha": "~1.17.0",
-    "xml2js": "~0.4.1",
+    "xml2js": "~0.6.2",
     "q": "~1.0.0"
   },
   "main": "lib/rss.js",
